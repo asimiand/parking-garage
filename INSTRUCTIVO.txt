@@ -1,0 +1,19 @@
+INSTRUCTIVO
+
+NO se necesita descargar ningún programa adicional.
+
+1. Descomprimir el zip “Cochera”.
+2. Abrir la carpeta y ejecutar el archivo “Cochera 2.exe”.
+3. Para moverse:
+
+w: para adelante
+s: para atrás 
+a: izquierda
+d: derecha
+r: arriba
+f: abajo
+o: vuelve todo como al principio
+
+Shift+letra: hace la misma acción más rápido 
+
+Con el mouse se le da la dirección.
